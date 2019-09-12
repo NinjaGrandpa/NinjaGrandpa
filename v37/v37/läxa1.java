@@ -25,5 +25,8 @@ public class l‰xa1 {
 		
 		System.out.println("Vad ‰r ditt telefonnummer?");
 		String telefonnummer = input1.nextLine();
+		
+		System.out.println("\nInformation:" + "\nNamn:\t\t" + name + "\n≈lder:\t\t" + age + "\nAdress:\t\t" + 
+		adress + "\nPostnummer:\t" + postnummer + "\nStad:\t\t" + stad + "\nTelefonnummer:\t" + telefonnummer);
 	}
 }
