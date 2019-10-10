@@ -23,20 +23,10 @@ public class uppgift3 {
 				sum = sum + integer;
 				turns++;
 			}
-			
-			else {
-				break;
-			}
-			
-			
-			
-			
 		}
 		while(integer != 0);
 		
 		mean = sum/turns;
 		System.out.println("Summa: " + sum + "\nMedelvärde: " + mean);
-	}
-		
-
+	}	
 }
