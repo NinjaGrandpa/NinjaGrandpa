@@ -14,6 +14,8 @@
 	<classpathentry kind="src" path="v48"/>
 	<classpathentry kind="src" path="v50"/>
 	<classpathentry kind="src" path="v4"/>
+	<classpathentry kind="src" path="Tillämpad Programmering v.4"/>
+	<classpathentry kind="src" path="v8"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
