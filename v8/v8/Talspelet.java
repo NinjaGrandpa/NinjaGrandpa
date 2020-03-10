@@ -10,7 +10,6 @@ public class Talspelet {
 		Scanner input = new Scanner(System.in);
 
 		// Initializing variables
-		String difficultyChoice;
 		String guess;
 		int guessInteger;
 		int tries;
@@ -24,7 +23,7 @@ public class Talspelet {
 			tries = DifficultyMenu();
 			randomInt = RandomNumberGenerator();
 
-			//
+			// If-satser som jämför "guess" med det slumpmässiga talet
 
 			System.out.println("Guess the number!");
 			while (tries > 0) {
@@ -92,6 +91,8 @@ public class Talspelet {
 
 		do {
 
+			// If-sats som avgör svårhetsgrad
+			
 			difficultyInput = input.nextLine();
 			
 			if (difficultyInput.equalsIgnoreCase("1")) {
@@ -114,7 +115,7 @@ public class Talspelet {
 			}
 			
 			else {
-				System.out.println("Write an integer!");
+				System.out.println("Write an integer between 1-4!");
 			}
 			
 		} while (!end);
