@@ -6,6 +6,10 @@
 [![NinjaGrandpa's GitHub stats](https://github-readme-stats.vercel.app/api?username=NinjaGrandpa&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
+
+Inspiration:
+https://github.com/onimur/onimur/blob/master/README.md
+
 **NinjaGrandpa/NinjaGrandpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
