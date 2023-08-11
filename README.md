@@ -2,8 +2,6 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/NinjaGrandpa)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/max-jensl%C3%B6v-0b0132207/)
-
-[![NinjaGrandpa's GitHub stats](https://github-readme-stats.vercel.app/api?username=NinjaGrandpa&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
  
 <!--
 
