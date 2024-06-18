@@ -1,7 +1,4 @@
 ## Hi there 👋, I'm Max Jenslöv, Welcome to my GitHub.
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/NinjaGrandpa)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/max-jensl%C3%B6v-0b0132207/)
  
 <!--
 
@@ -27,6 +24,10 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ninjagrandpa" alt="ninjagrandpa" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/NinjaGrandpa)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/max-jensl%C3%B6v-0b0132207/)
+
 <p align="left">
 </p>
 
